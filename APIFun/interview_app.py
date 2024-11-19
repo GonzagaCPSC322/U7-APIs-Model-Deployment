@@ -57,3 +57,5 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5001, debug=False)
     # TODO: when deploy app to "production", set debug=False
     # and check host and port values
+
+    # instructions for deploying flask app to render.com: https://docs.render.com/deploy-flask
